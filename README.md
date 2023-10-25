@@ -17,3 +17,6 @@ Machine Mastery: Take control of your machines! This system empowers users to se
 Secure Communication: Elevating data integrity, our project employs robust RESTful APIs for secure communication between clients and servers. Enjoy peace of mind knowing that your transactions are not only swift but also safeguarded.
 
 Explore the future of resource tracking with our Machine and Resource Tracker project. Maximize your organizational efficiency effortlessly.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v=aD3E45sv4ns" frameborder="0" allowfullscreen></iframe>
+
