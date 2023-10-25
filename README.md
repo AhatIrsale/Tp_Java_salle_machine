@@ -18,5 +18,4 @@ Secure Communication: Elevating data integrity, our project employs robust RESTf
 
 Explore the future of resource tracking with our Machine and Resource Tracker project. Maximize your organizational efficiency effortlessly.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v=aD3E45sv4ns" frameborder="0" allowfullscreen></iframe>
 
