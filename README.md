@@ -14,8 +14,15 @@ Resource Management: Dive into the world of efficient resource management. Users
 
 Machine Mastery: Take control of your machines! This system empowers users to seamlessly add or remove machines within designated spaces. Capture details like machine name, model, and status with ease.
 
-Secure Communication: Elevating data integrity, our project employs robust RESTful APIs for secure communication between clients and servers. Enjoy peace of mind knowing that your transactions are not only swift but also safeguarded.
+Secure Communication: Elevating data integrity, our project employs robust RESTful APIs for secure comm
+
+https://github.com/AhatIrsale/Tp_Java_salle_machine/assets/100087414/f0c436e4-dc67-4333-bbb9-8511ca057f76
+
+unication between clients and servers. Enjoy peace of mind knowing that your transactions are not only swift but also safeguarded.
 
 Explore the future of resource tracking with our Machine and Resource Tracker project. Maximize your organizational efficiency effortlessly.
+
+# Video Demo
+
 
 
